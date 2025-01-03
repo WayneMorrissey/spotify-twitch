@@ -32,6 +32,7 @@ Secondly, add the program to your startup programs by opening the task manager (
 ### Set OBS Studio Audio Device
 
 In OBS Studio, go to Audio settings and set "Desktop Audio 2" to "VoiceMeeter Aux Input (VB-Audio VoiceMeeter AUX VAIO)
+
 ![alt text](OBSAudio.png)
 
 This will add another bar in the Audio mixer part of OBS Studio that will strictly control the volume of Spotify to your live audience. You can adjust accordingly.  
