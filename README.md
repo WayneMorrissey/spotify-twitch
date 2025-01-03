@@ -9,11 +9,13 @@ The easiest path is to use a free software called [Voicemeeter Banana](https://v
 ### Set your Windows Sound Output Device
 
 Once downloaded, restart your PC to make sure the new virtual sound drivers are active. In Windows, open up your sound settings (click speaker bottom right). Make not of what your current output device is. Now set your default sound output device to "VoiceMeeter Input (VB-Audio Voicemeeter VAIO)
+
 ![alt text](OutputDevice.png)
 
 ### Set Spotify to the Aux (Secondary) Input
 
 The following image shows the steps in Windows 10 for setting Spotify to a different sound output. NOTE: System tray is the bottom right of the desktop in windows.
+
 ![alt text](SpotifyForum.png)
 
 Set the output for Spotify to "VoiceMeeter Aux Input (VB-Audio VoiceMeeter AUX VAIO)
@@ -21,6 +23,7 @@ Set the output for Spotify to "VoiceMeeter Aux Input (VB-Audio VoiceMeeter AUX V
 ### Set Hardware out for VoiceMeeter Banana Cake
 
 Open up VoiceMeeter Banana and click the A1 button towards the top righ (shown in image below) and select whatever your usual output is (USB headphones, Speakers, etc) which was changed away from earlier. 
+
 ![alt text](VMOutput.png)
 
 Also make not of all the lit up A1 and B1 buttons on the bottom vertical mixing bars, you'll likely want to match those if they aren't the same by default. In the Virutal Inputs sections (the one with the orange bars in the screenshot), the right bar will be the volume of Spotify, the left bar with be the volume of everything else on your PC, so you can mix accordingly.
@@ -36,6 +39,7 @@ In OBS Studio, go to Audio settings and set "Desktop Audio 2" to "VoiceMeeter Au
 ![alt text](OBSAudio.png)
 
 This will add another bar in the Audio mixer part of OBS Studio that will strictly control the volume of Spotify to your live audience. You can adjust accordingly.  
+
 ![alt text](OBSAudioMixer.png)
 
 ### Set your Audio Tracks in OBS Studio
