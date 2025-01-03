@@ -20,7 +20,7 @@ Set the output for Spotify to "VoiceMeeter Aux Input (VB-Audio VoiceMeeter AUX V
 
 ### Set Hardware out for VoiceMeeter Banana Cake
 
-Open up VoiceMeeter Banana and click the A1 button towards the top right (shown in image below) and select whatever your usual output is (USB headphones, Speakers, etc) which was changed away from earlier. 
+Open up VoiceMeeter Banana and click the A1 button towards the top righ (shown in image below) and select whatever your usual output is (USB headphones, Speakers, etc) which was changed away from earlier. 
 ![alt text](VMOutput.png)
 
 Also make not of all the lit up A1 and B1 buttons on the bottom vertical mixing bars, you'll likely want to match those if they aren't the same by default. In the Virutal Inputs sections (the one with the orange bars in the screenshot), the right bar will be the volume of Spotify, the left bar with be the volume of everything else on your PC, so you can mix accordingly.
@@ -34,7 +34,7 @@ Secondly, add the program to your startup programs by opening the task manager (
 In OBS Studio, go to Audio settings and set "Desktop Audio 2" to "VoiceMeeter Aux Input (VB-Audio VoiceMeeter AUX VAIO)
 ![alt text](OBSAudio.png)
 
-This will add another bar in the Audio mixer part of OBS Studio that will strictly control the volume of Spotify to your live audience. You can adjust accordingly.
+This will add another bar in the Audio mixer part of OBS Studio that will strictly control the volume of Spotify to your live audience. You can adjust accordingly.  
 ![alt text](OBSAudioMixer.png)
 
 ### Set your Audio Tracks in OBS Studio
