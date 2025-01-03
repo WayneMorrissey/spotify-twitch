@@ -53,3 +53,11 @@ Now go to your OBS Studio settings, into the Output tab on the left, set Output 
 This will make it so that the VOD will use the second audio track which doesn't have the Spotify device selected, but the livestream will use the first audio track which does.
 
 Now everyone can bop along to some awful Morgan Wallen or whatever his name is songs :]
+
+### Re-enable Published VODs
+
+If VODs were unpublished by Twitch because Jeff Bezos is a sad bald man that doesn't like bopping to ultimate baddie Sabrina Carpenter, you have to re-enable your VODs through the Twitch dashboard settings.
+
+Go to your creator dashboard, click Settings on the left, the click Stream on the left underneath, and switch "Store past broadasts" back on.
+
+![alt text](EnablePublish.png)
